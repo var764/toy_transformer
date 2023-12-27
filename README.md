@@ -1,1 +1,1 @@
-built a decoder-only transformer to generate text for learning purposes
+decoder-only transformer to generate text, built for learning purposes
